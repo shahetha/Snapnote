@@ -1,0 +1,10 @@
+.DS_Store
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+.idea/
+.build/
+Pods/
+.env
+Access Keys/
